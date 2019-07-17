@@ -7,7 +7,7 @@ Ideado para Raspberry PI y Linux Jessie.
 OpenCV 3.4.
 
 
-##Uso
+## Uso
 Uso vid3.py #camara(0 o 1) nombre(archivo video).
 
 ```bash
